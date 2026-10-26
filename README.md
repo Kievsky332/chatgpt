@@ -1,15 +1,63 @@
-# Chatgpt Копирка на tailwind
+# chatgpt
 
-<img width="653" height="311" alt="image" src="https://github.com/user-attachments/assets/e40b3a5e-175a-438a-93fd-cacdc368fc77" />
+Альтернативный интерфейс-пародия на ChatGPT, воссоздающий визуальный стиль и базовую структуру оригинального сервиса с использованием современных веб-технологий.
 
-## использовано:
-- tailwind
-- html
+![Static Badge](https://img.shields.io/badge/Kievsky332-chatgpt-green)
+![GitHub top language](https://img.shields.io/github/languages/top/Kievsky332/chatgpt)
+![GitHub](https://img.shields.io/github/license/Kievsky332/chatgpt)
+![GitHub Repo stars](https://img.shields.io/github/stars/Kievsky332/chatgpt)
 
-# reference
-<img width="379" height="311" alt="Снимок экрана от 2026-07-25 22-53-02" src="https://github.com/user-attachments/assets/fa1d9ddb-3efa-4163-aad6-a488075aef21" />
+---
 
-https://chatgpt.com/
+## Описание проекта
 
-## Автор
-© 2026 kievsky332
+Этот проект представляет собой фронтенд-клон интерфейса ChatGPT. Он демонстрирует навыки верстки сложных пользовательских интерфейсов, адаптивного дизайна и работы с утилитарными CSS-фреймворками. Проект является полностью статическим и не включает серверную часть или реальную интеграцию с языковыми моделями.
+
+---
+
+## Стек технологий
+
+- **HTML5** — семантическая разметка страницы
+- **Tailwind CSS** — утилитарный фреймворк для быстрой и гибкой стилизации интерфейса
+- **JavaScript** (минимально) — базовая интерактивность элементов интерфейса
+
+---
+
+## Запуск локально
+
+1. Склонируйте репозиторий:
+   ```bash
+   git clone https://github.com/Kievsky332/chatgpt.git
+   ```
+2. Перейдите в папку проекта:
+   ```bash
+   cd chatgpt
+   ```
+3. Откройте файл index.html двойным кликом в любом современном браузере.
+
+---
+# Структура
+```text
+chatgpt/
+ ├── index.html       # Основная разметка страницы и подключение Tailwind CSS
+ └── LICENSE          # Лицензия проекта (MIT)
+
+```
+## Ссылки
+
+- **Демо-версия (Live):** [kievsky332.github.io/BuSsite](https://kievsky332.github.io/chatgpt/)
+- **Исходный код:** [github.com/Kievsky332/BuSsite](https://github.com/Kievsky332/chatgpt)
+
+---
+
+## Поддержка и обратная связь
+
+Если у вас есть идеи, или вы нашли баг, создайте [Issue](https://github.com/Kievsky332/chatgpt/issues/new) в этом репозитории или свяжитесь со мной:
+- **Telegram:** [@imyrj](https://t.me/imyrj)
+- **Email:** admin@sorav.ru
+
+---
+
+<p align="center">
+  <sub>© 2026 kievsky332.<br> Сделано с любовью</sub>
+</p>
