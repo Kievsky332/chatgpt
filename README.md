@@ -45,9 +45,9 @@ chatgpt/
 ```
 ## Ссылки
 
-- **Демо-версия (Live):** [kievsky332.github.io/BuSsite](https://kievsky332.github.io/chatgpt/)
-- **Исходный код:** [github.com/Kievsky332/BuSsite](https://github.com/Kievsky332/chatgpt)
-
+- **Демо-версия (Live):** [kievsky332.github.io/chatgpt](https://kievsky332.github.io/chatgpt/)
+- **Исходный код:** [github.com/Kievsky332/chatgpt](https://github.com/Kievsky332/chatgpt)
+- **Референс** [https://chatgpt.com](https://chatgpt.com)
 ---
 
 ## Поддержка и обратная связь
